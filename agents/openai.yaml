@@ -1,0 +1,4 @@
+interface:
+  display_name: "NarrateFlow"
+  short_description: "使用外部旁白音频生成讲解视频"
+  default_prompt: "使用 $narrateflow-skill 分析我的视频，并用我提供的旁白音频合成成片。"
